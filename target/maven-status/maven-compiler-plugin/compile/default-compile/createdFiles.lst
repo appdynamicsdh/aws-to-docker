@@ -1,0 +1,5 @@
+sample\freemarker\DockerHttpApiData.class
+sample\freemarker\SampleWebFreeMarkerApplication.class
+sample\freemarker\WelcomeController.class
+sample\freemarker\AWSAPIProxy.class
+sample\freemarker\HttpRequest.class
