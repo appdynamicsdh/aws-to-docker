@@ -42,7 +42,7 @@ public class AWSAPIProxy {
 
         try {
             HttpRequest httpRequest = new HttpRequest();
-            jsonResponse = httpRequest.requestDataFromUrl("http://169.254.169.254/"+url);
+            jsonResponse = httpRequest.requestDataFromUrl("http://169.254.170.2/"+url);
         }
         catch(Exception e){
             e.printStackTrace();
